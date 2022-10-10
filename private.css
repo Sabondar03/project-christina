@@ -1,0 +1,53 @@
+.header-private {
+  font-family: 'Montserrat';
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 49px;
+  text-align: left;
+  height: 49px;
+  width: 1157px;
+  left: 40px;
+  padding-top: 70px;
+  position: relative;
+  padding-bottom: 100px;
+}
+.txt-prgrf-1 {
+  padding-left: 40px;
+  font-family: 'Montserrat';
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 37px;
+  text-align: left;
+  padding-top: 50px;
+  padding-bottom: 50px; 
+}
+
+.txt-prgrf {
+  font-family: 'Montserrat';
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 37px;
+    
+    text-align: left;
+    
+    /* padding-left: 40px; */
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.paragraf {
+  font-family: 'Montserrat';
+    /* font-size: 30px; */
+    font-weight: 400;
+    line-height: 37px;
+    
+    text-align: left;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.li-txt {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
